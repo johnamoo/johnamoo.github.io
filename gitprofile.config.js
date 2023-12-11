@@ -11,22 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
+    linkedin: 'johnamoo',
     medium: 'arifszn',
     dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'jn.linking@gmail.com',
   },
   resume: {
     fileUrl:
@@ -50,18 +39,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Duke University',
+      position: 'Information Security Analyst',
+      from: 'July 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://security.duke.edu/about-duke-security-offices/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Durham Rescue Mission',
+      position: 'Volunteer and Systems Coordinator',
+      from: 'October 2019',
+      to: 'January 2021',
+      companyLink: 'https://durhamrescuemission.org/about/meet-our-staff/',
     },
   ],
   /* certifications: [
@@ -74,16 +63,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Bachelors of Science in Business Administration, Management Information Systems',
+      from: '2022',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Durham Technical Community College',
+      degree: 'Associate in Engineering',
+      from: '2019',
+      to: '2023',
     },
   ],
 
