@@ -18,7 +18,7 @@ const config = {
     fileUrl:
       'https://drive.google.com/file/d/1bovgEmse0et_7HLiihCBRiLX17RviZ5t/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
-  'Technical Expertise': [
+  Expertise: [
     'SQL',
     'Python',
     'Splunk',
@@ -47,14 +47,14 @@ const config = {
       companyLink: 'https://durhamrescuemission.org/about/meet-our-staff/',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'ISC2 Certified in Cybersecurity',
+      body: '',
+      year: 'November 2023',
       link: 'https://example.com'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'East Carolina University',
@@ -80,17 +80,17 @@ const config = {
       link: 'https://drive.google.com/file/d/1WF5AAwtf5t4vxo_etCwMcm5s00ZJSDca/view?usp=sharing',
     },
     {
-      title: 'Project Name',
+      title: 'Linux Commands',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: 'https://th.bing.com/th/id/OIP.Cc4Tb5Aa6x6MZrkn7eqAhgHaIL?rs=1&pid=ImgDetMain',
+      link: 'https://drive.google.com/file/d/1lh5XjZeR9ZyaB-Y24O-X_C1zxyXk4CwX/view?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'linkedin', // medium | dev
+    username: 'johnamoo', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -102,7 +102,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
