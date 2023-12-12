@@ -73,11 +73,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Financial Service Security Audit',
+      title: 'Elevator Pitch',
       description:
         '',
-      imageUrl: 'https://bleuwire.com/wp-content/uploads/2018/12/security-audit-e1543866953603.jpg',
-      link: 'https://drive.google.com/file/d/1WF5AAwtf5t4vxo_etCwMcm5s00ZJSDca/view?usp=sharing',
+      imageUrl: 'https://www.officeevolution.com/wp-content/uploads/2022/08/elevator-pitch-stock-photo.jpeg',
+      link: 'https://drive.google.com/file/d/1J2MLFPAuxQJ5Nr8x8SsxEbOLp5smO9eu/view?usp=sharing',
     },
     {
       title: 'Linux Commands',
@@ -85,6 +85,13 @@ const config = {
         '',
       imageUrl: 'https://th.bing.com/th/id/OIP.Cc4Tb5Aa6x6MZrkn7eqAhgHaIL?rs=1&pid=ImgDetMain',
       link: 'https://drive.google.com/file/d/1lh5XjZeR9ZyaB-Y24O-X_C1zxyXk4CwX/view?usp=sharing',
+    },
+    {
+      title: 'Financial Service Security Audit',
+      description:
+        '',
+      imageUrl: 'https://bleuwire.com/wp-content/uploads/2018/12/security-audit-e1543866953603.jpg',
+      link: 'https://drive.google.com/file/d/1WF5AAwtf5t4vxo_etCwMcm5s00ZJSDca/view?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
