@@ -12,30 +12,24 @@ const config = {
   },
   social: {
     linkedin: 'johnamoo',
-    medium: 'johnamoo',
-    dev: 'johnamoo',
-    stackoverflow: '', // example: '1/jeff-atwood'
     email: 'jn.linking@gmail.com',
   },
   resume: {
     fileUrl:
       'https://drive.google.com/file/d/1bovgEmse0et_7HLiihCBRiLX17RviZ5t/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+  'Technical Expertise': [
+    'SQL',
+    'Python',
+    'Splunk',
+    'Database Design',
+    'Microsoft SQL Server',
+    'Secure Network Architecture',
+    'Network Design',
+    'Network Configuration',
+    'Network Troubleshooting',
+    'Security Management',
+    'Project Management',
   ],
   experiences: [
     {
