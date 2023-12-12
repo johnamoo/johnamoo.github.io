@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'johnamoo', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -12,8 +12,8 @@ const config = {
   },
   social: {
     linkedin: 'johnamoo',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'johnamoo',
+    dev: 'johnamoo',
     stackoverflow: '', // example: '1/jeff-atwood'
     email: 'jn.linking@gmail.com',
   },
