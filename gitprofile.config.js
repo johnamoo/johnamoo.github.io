@@ -89,18 +89,11 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'linkedin', // medium | dev
+    source: 'https://www.linkedin.com/in/johnamoo/recent-activity/all/', // medium | dev
     username: 'johnamoo', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+
   themeConfig: {
     defaultTheme: 'night',
 
