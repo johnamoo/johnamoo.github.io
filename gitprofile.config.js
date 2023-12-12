@@ -79,11 +79,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Financial Service Security Audit',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: 'https://bleuwire.com/wp-content/uploads/2018/12/security-audit-e1543866953603.jpg',
+      link: 'https://drive.google.com/file/d/1WF5AAwtf5t4vxo_etCwMcm5s00ZJSDca/view?usp=sharing',
     },
     {
       title: 'Project Name',
