@@ -111,7 +111,7 @@ const config = {
       title: 'Home Network Heatmap',
       description:
         '',
-      imageUrl: 'https://www.labiib.com/uploads/1/1/4/9/11497821/published/heatmapper.jpg?1502094708',
+      imageUrl: 'https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/2041/2019/12/heat-map-image-example-480.jpg',
       link: 'https://example.com',
     },
   ],
