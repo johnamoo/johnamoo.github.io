@@ -100,6 +100,20 @@ const config = {
       imageUrl: 'https://www.bisinfotech.com/wp-content/uploads/2021/12/IIOT-400x300.jpg',
       link: 'https://drive.google.com/file/d/1wTOSA78E-XBZqs5sZ7pqCLzLQwCyJ1vV/view?usp=sharing',
     },
+    {
+      title: 'NIST Security Incident',
+      description:
+        '',
+      imageUrl: 'https://dashautomoversnetwork.com/wp-content/uploads/2021/12/NIST-CSF-2048x1132.jpg',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Home Network Heatmap',
+      description:
+        '',
+      imageUrl: 'https://www.labiib.com/uploads/1/1/4/9/11497821/published/heatmapper.jpg?1502094708',
+      link: 'https://example.com',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
