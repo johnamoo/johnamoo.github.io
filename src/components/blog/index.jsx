@@ -25,7 +25,7 @@ const Blog = ({ loading, blog, googleAnalytics }) => {
         }).then((res) => {
           setArticles(res);
         });
-      } else if (blog.source === 'dev') {
+      } else if (blog.source === 'linkedin') {
         getDevPost({
           user: blog.username,
         }).then((res) => {
