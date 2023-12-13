@@ -93,6 +93,13 @@ const config = {
       imageUrl: 'https://bleuwire.com/wp-content/uploads/2018/12/security-audit-e1543866953603.jpg',
       link: 'https://drive.google.com/file/d/1WF5AAwtf5t4vxo_etCwMcm5s00ZJSDca/view?usp=sharing',
     },
+    {
+      title: 'AT&T Enterprise Architecture Report',
+      description:
+        '',
+      imageUrl: 'https://www.bisinfotech.com/wp-content/uploads/2021/12/IIOT-400x300.jpg',
+      link: 'https://studentsecuedu66932.sharepoint.com/:v:/r/sites/KillingsworthProject/Shared Documents/General/Recordings/Meeting in _General_-20231202_143025-Meeting Recording.mp4?csf=1&web=1&e=3G0eXM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
