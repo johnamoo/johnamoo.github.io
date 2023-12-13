@@ -98,7 +98,7 @@ const config = {
       description:
         '',
       imageUrl: 'https://www.bisinfotech.com/wp-content/uploads/2021/12/IIOT-400x300.jpg',
-      link: 'https://studentsecuedu66932.sharepoint.com/:v:/r/sites/KillingsworthProject/Shared Documents/General/Recordings/Meeting in _General_-20231202_143025-Meeting Recording.mp4?csf=1&web=1&e=3G0eXM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D',
+      link: 'https://drive.google.com/file/d/1wTOSA78E-XBZqs5sZ7pqCLzLQwCyJ1vV/view?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
