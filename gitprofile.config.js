@@ -103,8 +103,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'https://www.linkedin.com/in/johnamoo/recent-activity/all/', // medium | dev
-    username: 'johnamoo', // to hide blog section, keep it empty
+    source: 'x.com', // medium | dev
+    username: 'theniihimself', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
 
