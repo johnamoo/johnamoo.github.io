@@ -12,6 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'johnamoo',
+    'x.com': 'theniihimself',
     email: 'jn.linking@gmail.com',
   },
   resume: {
