@@ -105,7 +105,7 @@ const config = {
       description:
         '',
       imageUrl: 'https://dashautomoversnetwork.com/wp-content/uploads/2021/12/NIST-CSF-2048x1132.jpg',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1y1LluveC0MyElu-2sPwATYwAgQKvTBym/view?usp=sharing',
     },
     {
       title: 'Home Network Heatmap',
